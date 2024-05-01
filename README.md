@@ -5,9 +5,7 @@
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedwael2000&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedwael2000" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision and Pytorch**
-
-- 💬 Ask me about **Node.js, Mongodb, ML**
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
 - 📫 How to reach me **ahmedwaelfarouk2000@gmail.com**
 
